@@ -1,3 +1,6 @@
+// thoughts after interview
+// not equarlly enough I think
+
 #include <random>
 #include <iostream>
 #include <vector>
